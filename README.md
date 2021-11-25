@@ -1,4 +1,4 @@
-## Hello World! <img img align="center" height="50em" src="00.gif" alt="git">
+## <img img align="center" height="50em" src="00.gif" alt="git">
 <a href="https://github.com/Rafael-BD">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael-BD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rafael-BD&layout=compact&langs_count=8&theme=dracula"/>
