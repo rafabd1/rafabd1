@@ -1,13 +1,3 @@
-<pre>
-   ________  ___   ___  ________ ________  ________  ________    _____     
-|\   __  \|\  \ |\  \|\  _____\\   __  \|\   __  \|\   ___ \  / __  \    
-\ \  \|\  \ \  \\_\  \ \  \__/\ \  \|\  \ \  \|\ /\ \  \_|\ \|\/_|\  \   
- \ \   _  _\ \______  \ \   __\\ \   __  \ \   __  \ \  \ \\ \|/ \ \  \  
-  \ \  \\  \\|_____|\  \ \  \_| \ \  \ \  \ \  \|\  \ \  \_\\ \   \ \  \ 
-   \ \__\\ _\      \ \__\ \__\   \ \__\ \__\ \_______\ \_______\   \ \__\
-    \|__|\|__|      \|__|\|__|    \|__|\|__|\|_______|\|_______|    \|__|                                                                                                                                 
-</pre>
-<br>
 <h3 align="center">Cybersecurity student focused on Red Team, with a background in Systems Analysis, and an independent developer working on some projects.</h3>
 
 - 🔭 I’m currently working on [Tasken](https://play.google.com/store/apps/details?id=com.rbd.planium&hl=pt_BR&pli=1)
