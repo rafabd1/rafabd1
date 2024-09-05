@@ -1,4 +1,4 @@
-<h3 align="center">Cybersecurity student focused on Red Team, with a background in Systems Analysis, and an independent developer working on some projects.</h3>
+<h3 align="center">Cybersecurity student focused on Red Team and an independent developer working on some projects.</h3>
 
 - 🔭 I’m currently working on [Tasken](https://play.google.com/store/apps/details?id=com.rbd.planium&hl=pt_BR&pli=1)
 
