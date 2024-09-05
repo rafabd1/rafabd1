@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on [Tasken](https://play.google.com/store/apps/details?id=com.rbd.planium&hl=pt_BR&pli=1)
 
-- I’m currently learning **Offensive security and reverse engineering**
-
 <br>
 <div align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael-BD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
