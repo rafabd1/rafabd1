@@ -1,7 +1,3 @@
-<h3 align="center">Cybersecurity student focused on Red Team and an independent developer working on some projects.</h3>
-
-- 🔭 I’m currently working on [Tasken](https://play.google.com/store/apps/details?id=com.rbd.planium&hl=pt_BR&pli=1)
-
 <br>
 <div align="center">
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rafael-BD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
