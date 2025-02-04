@@ -1,5 +1,3 @@
-# Rafael-BD
-
 ## About Me
 
 I am a **full-stack developer** with a stronger focus on **front-end development**, working with **React**, **Next.js**, and **React Native**. Additionally, I am a **cybersecurity student** specializing in offensive security (red team).  
