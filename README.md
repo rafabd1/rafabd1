@@ -1,6 +1,6 @@
 ## About Me
 
-I am a **full-stack developer** with a stronger focus on **front-end development**, working with **React**, **Next.js**, and **React Native**. Additionally, I am a **cybersecurity student** specializing in offensive security (red team).  
+I am a **full-stack developer** working with **React**, **Next.js**, and **React Native**. Additionally, I am a **cybersecurity student** specializing in offensive security (red team).  
 
 I have developed multiple projects across different areas, including cybersecurity tools and solutions. I am also passionate about **Artificial Intelligence** and continuously explore new technologies and challenges.
 
@@ -16,11 +16,11 @@ I have developed multiple projects across different areas, including cybersecuri
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,react,next,git,github,gitlab,vscode,unity,obsidian,notion,deno,nodejs,bun,styledcomponents,tailwindcss,pnpm,mysql,mongodb,supabase,firebase,anaconda,postman,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,bash,react,next,git,github,gitlab,vscode,unity,obsidian,notion,deno,nodejs,bun,styledcomponents,tailwindcss,pnpm,mysql,mongodb,supabase,firebase,anaconda,postman,tensorflow)](https://skillicons.dev)
 
 ## Operating Systems
 
-[![Systems](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)
+[![Systems](https://skillicons.dev/icons?i=windows,linux,kali,arch)](https://skillicons.dev)
 
 <!--
 ## 
