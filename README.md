@@ -16,7 +16,7 @@ I have developed multiple projects across different areas, including cybersecuri
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,bash,react,next,git,github,gitlab,vscode,unity,obsidian,notion,deno,nodejs,bun,styledcomponents,tailwindcss,pnpm,mysql,mongodb,supabase,firebase,anaconda,postman,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,golang,cs,python,bash,react,next,git,github,gitlab,vscode,unity,obsidian,notion,deno,nodejs,bun,styledcomponents,tailwindcss,pnpm,mysql,mongodb,supabase,firebase,anaconda,postman,tensorflow)](https://skillicons.dev)
 
 ## Operating Systems
 
