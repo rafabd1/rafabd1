@@ -1,6 +1,6 @@
 ## About Me
 
-I am a **full-stack developer** working with **React**, **Next.js**, and **React Native**. Additionally, I am a **cybersecurity student** specializing in offensive security (red team).  
+I am a **full-stack developer** and **cybersecurity student** specializing in offensive security (red team).  
 
 I have developed multiple projects across different areas, including cybersecurity tools and solutions. I am also passionate about **Artificial Intelligence** and continuously explore new technologies and challenges.
 
