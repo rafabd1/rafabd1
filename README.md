@@ -1,8 +1,8 @@
 ## About Me
 
-I am a **full-stack developer** and **cybersecurity student** specializing in offensive security (red team).  
+I am a **cybersecurity student** specializing in offensive security (red team).  
 
-I have developed multiple projects across different areas, including cybersecurity tools and solutions. I am also passionate about **Artificial Intelligence** and continuously explore new technologies and challenges.
+I have developed multiple projects across different areas, including cybersecurity tools. I am also passionate about **Artificial Intelligence** and continuously explore new technologies and challenges.
 
 ## Github Analytics
 <div align="center">
@@ -16,15 +16,16 @@ I have developed multiple projects across different areas, including cybersecuri
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,golang,cs,python,bash,react,next,git,github,gitlab,vscode,unity,obsidian,notion,deno,nodejs,bun,styledcomponents,tailwindcss,pnpm,mysql,mongodb,supabase,firebase,anaconda,postman,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,python,bash,react,next,git,github,gitlab,obsidian,notion,deno,nodejs,bun,mysql,supabase,firebase)](https://skillicons.dev)
 
 ## Operating Systems
 
 [![Systems](https://skillicons.dev/icons?i=windows,linux,kali,arch)](https://skillicons.dev)
 
-<!--
-## 
-[ ![Rafabd1](https://www.hackthebox.eu/badge/image/2216017)](https://app.hackthebox.com/profile/2216017)
 
-[ ![Rafabd1](https://tryhackme-badges.s3.amazonaws.com/0xM4ki.png)](https://tryhackme.com/p/0xM4ki)
+## Profiles
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://www.hackthebox.eu/badge/image/2216017" alt="rafabd1" width=250 height=60 style="vertical-align: middle;" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xSybr1d.png" alt="rafabd1" width=250 height=63 style="vertical-align: middle;" />
+</div>
