@@ -22,7 +22,7 @@ I have developed multiple projects across different areas, including cybersecuri
 
 [![Systems](https://skillicons.dev/icons?i=windows,linux,kali,arch)](https://skillicons.dev)
 
-
+<!--
 ## Profiles
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
