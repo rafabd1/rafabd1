@@ -1,9 +1,3 @@
-## About Me
-
-I am a **cybersecurity student** specializing in offensive security (red team).  
-
-I have developed multiple projects across different areas, including cybersecurity tools. I am also passionate about **Artificial Intelligence** and continuously explore new technologies and challenges.
-
 ## Github Analytics
 <div align="center">
   <table>
