@@ -10,7 +10,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,python,bash,react,next,git,github,gitlab,obsidian,notion,deno,nodejs,bun,mysql,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,rust,python,bash,react,next,deno,nodejs,bun,mysql,supabase,firebase)](https://skillicons.dev)
 
 ## Operating Systems
 
