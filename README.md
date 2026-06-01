@@ -1,25 +1,39 @@
-## Github Analytics
-<div align="center">
-  <table>
-    <tr>
-      <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafabd1&layout=compact&langs_count=8&theme=dracula"/>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="280" valign="top">
+      <img src="./00.gif" width="260" alt="monochrome ascii rain banner" />
+    </td>
+    <td valign="top">
+      <pre><code>sybr1d@github:~$ whoami
+security researcher
+ethical hacker
+vulnerability research
+exploit development
+responsible disclosure
 
-## Technologies
+</code></pre>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,golang,rust,python,bash,react,next,deno,nodejs,bun,mysql,supabase,firebase)](https://skillicons.dev)
+      <p>
+        <a href="https://x.com/sybr1d_">x.com/sybr1d_</a> /
+        <a href="https://gitlab.com/rafabd">gitlab.com/rafabd</a> /
+        <a href="https://app.hackthebox.com/users/2216017">hackthebox</a> /
+        <a href="https://hackerone.com/rafabd1">hackerone</a>
+      </p>
 
-## Operating Systems
+      <p>
+        <strong>published advisories</strong><br />
+        <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
+        <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-[![Systems](https://skillicons.dev/icons?i=windows,linux,kali,arch)](https://skillicons.dev)
+<details>
+  <summary>telemetry</summary>
 
-<!--
-## Profiles
+  <br />
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://www.hackthebox.eu/badge/image/2216017" alt="rafabd1" width=250 height=60 style="vertical-align: middle;" />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xSybr1d.png" alt="rafabd1" width=250 height=63 style="vertical-align: middle;" />
-</div>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true" alt="github stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabd1&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8" alt="top languages" />
+</details>
