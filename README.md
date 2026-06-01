@@ -7,7 +7,7 @@
 <img width="560" src="./terminal.gif?v=4" alt="sybr1d terminal profile" />
 <br /><br />
 <p align="center">
-<img width="560" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true&card_width=560" alt="github stats" />
+<img width="430" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true&card_width=430" alt="github stats" />
 </p>
 <br />
 <samp>links</samp><br />
