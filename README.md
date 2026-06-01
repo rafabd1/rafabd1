@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="280" valign="top">
+<td valign="top">
 <img src="./00.gif" width="260" alt="monochrome ascii stream banner" />
 </td>
 <td valign="top">
@@ -14,9 +14,7 @@ vulnerability research
 exploit development
 responsible disclosure
 
-sybr1d@github:~$ ./signal
-low noise, high signal
-breaking assumptions, not production</code></pre>
+</code></pre>
 <samp>links</samp><br />
 <a href="https://x.com/sybr1d_">x</a> /
 <a href="https://gitlab.com/rafabd">gitlab</a> /
