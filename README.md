@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td width="260" valign="top">
-<img width="240" src="./00.gif?v=6" alt="monochrome ascii stream" />
+<img width="240" height="585" src="./stream.gif" alt="monochrome ascii stream" />
 </td>
 <td valign="top">
 <img width="560" src="./terminal.gif?v=4" alt="sybr1d terminal profile" />
