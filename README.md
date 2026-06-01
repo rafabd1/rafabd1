@@ -5,16 +5,25 @@
 </td>
 <td valign="top">
 <h2>sybr1d</h2>
-<samp>security researcher / ethical hacker</samp><br />
-<samp>vulnerability research . exploit development . responsible disclosure</samp><br /><br />
-<samp>low noise, high signal</samp><br />
-<samp>breaking assumptions, not production</samp><br /><br />
+<pre><code>sybr1d@github:~$ whoami
+security researcher
+ethical hacker
+
+sybr1d@github:~$ cat ./focus
+vulnerability research
+exploit development
+responsible disclosure
+
+sybr1d@github:~$ ./signal
+low noise, high signal
+breaking assumptions, not production</code></pre>
+<samp>links</samp><br />
 <a href="https://x.com/sybr1d_">x</a> /
 <a href="https://gitlab.com/rafabd">gitlab</a> /
 <a href="https://app.hackthebox.com/users/2216017">hackthebox</a> /
 <a href="https://hackerone.com/rafabd1">hackerone</a>
 <br /><br />
-<strong>advisories</strong><br />
+<samp>advisories</samp><br />
 <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
 <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
 </td>
