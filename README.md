@@ -1,38 +1,27 @@
 <table>
-  <tr>
-    <td width="280" valign="top">
-      <img src="./00.gif" width="260" alt="monochrome ascii stream banner" />
-    </td>
-    <td valign="top">
-      <h2>sybr1d</h2>
-
-      <p>
-        <samp>security researcher / ethical hacker</samp><br />
-        <samp>vulnerability research . exploit development . responsible disclosure</samp>
-      </p>
-
-      <p>
-        <samp>low noise, high signal</samp><br />
-        <samp>breaking assumptions, not production</samp>
-      </p>
-
-      <p>
-        <a href="https://x.com/sybr1d_">x</a> /
-        <a href="https://gitlab.com/rafabd">gitlab</a> /
-        <a href="https://app.hackthebox.com/users/2216017">hackthebox</a> /
-        <a href="https://hackerone.com/rafabd1">hackerone</a>
-      </p>
-
-      <p>
-        <strong>advisories</strong><br />
-        <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
-        <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="280" valign="top">
+<img src="./00.gif" width="260" alt="monochrome ascii stream banner" />
+</td>
+<td valign="top">
+<h2>sybr1d</h2>
+<samp>security researcher / ethical hacker</samp><br />
+<samp>vulnerability research . exploit development . responsible disclosure</samp><br /><br />
+<samp>low noise, high signal</samp><br />
+<samp>breaking assumptions, not production</samp><br /><br />
+<a href="https://x.com/sybr1d_">x</a> /
+<a href="https://gitlab.com/rafabd">gitlab</a> /
+<a href="https://app.hackthebox.com/users/2216017">hackthebox</a> /
+<a href="https://hackerone.com/rafabd1">hackerone</a>
+<br /><br />
+<strong>advisories</strong><br />
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
+<a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
+</td>
+</tr>
 </table>
 
 <p>
-  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafabd1&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8" alt="top languages" />
+<img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true" alt="github stats" />
+<img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafabd1&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8" alt="top languages" />
 </p>
