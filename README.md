@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="./00.gif" alt="sybr1d terminal banner" />
+<img width="760" src="./00.gif" alt="sybr1d terminal banner" />
 </p>
 
 <p align="center">
