@@ -1,10 +1,10 @@
 <table>
 <tr>
 <td width="260" valign="top">
-<img width="240" src="./00.gif" alt="monochrome ascii stream" />
+<img width="240" src="./00.gif?v=2" alt="monochrome ascii stream" />
 </td>
 <td valign="top">
-<img width="560" src="./terminal.gif" alt="sybr1d terminal profile" />
+<img width="560" src="./terminal.gif?v=2" alt="sybr1d terminal profile" />
 <br /><br />
 <samp>links</samp><br />
 <a href="https://x.com/sybr1d_">x</a> /
@@ -16,8 +16,7 @@
 <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
 <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
 <br /><br />
-<img height="132" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true&card_width=278" alt="github stats" />
-<img height="132" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafabd1&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&card_width=230" alt="top languages" />
+<img height="112" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true&card_width=278" alt="github stats" /><img height="112" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafabd1&layout=compact&langs_count=6&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&card_width=210" alt="top languages" />
 </td>
 </tr>
 </table>
