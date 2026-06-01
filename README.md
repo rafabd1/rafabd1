@@ -1,31 +1,20 @@
-<img align="left" width="210" hspace="18" src="./00.gif" alt="monochrome ascii stream banner" />
+<p align="center">
+<img width="100%" src="./00.gif" alt="sybr1d terminal banner" />
+</p>
 
-<pre><code>sybr1d@github:~$ whoami
-security researcher
-ethical hacker
-
-sybr1d@github:~$ cat ./focus
-vulnerability research
-exploit development
-responsible disclosure
-
-sybr1d@github:~$ ./signal
-low noise, high signal
-breaking assumptions, not production</code></pre>
-
+<p align="center">
 <samp>links</samp><br />
 <a href="https://x.com/sybr1d_">x</a> /
 <a href="https://gitlab.com/rafabd">gitlab</a> /
 <a href="https://app.hackthebox.com/users/2216017">hackthebox</a> /
 <a href="https://hackerone.com/rafabd1">hackerone</a>
+</p>
 
-<br /><br />
-
+<p align="center">
 <samp>advisories</samp><br />
-<a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a><br />
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
 <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
-
-<br clear="left" />
+</p>
 
 <p align="center">
 <img height="140" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true" alt="github stats" />
