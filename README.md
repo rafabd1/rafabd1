@@ -19,10 +19,10 @@
 <samp>advisories</samp><br />
 <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
 <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
+<br /><br />
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rafabd1.rafabd1&amp;style=flat-square&amp;left_color=%23000000&amp;right_color=%23262626" alt="visitor badge" />
+</p>
 </td>
 </tr>
 </table>
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rafabd1.rafabd1&style=flat-square&color=black" alt="visitor badge" />
-</div>
