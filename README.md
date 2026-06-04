@@ -22,3 +22,7 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rafabd1.rafabd1&style=flat-square&color=black" alt="visitor badge" />
+</div>
