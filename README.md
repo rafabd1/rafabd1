@@ -1,13 +1,13 @@
 <table>
 <tr>
-<td width="260" align="center" valign="top">
-<img width="160" src="./stream.gif?v=2" alt="monochrome ascii stream" />
+<td width="180" align="center" valign="top">
+<img width="160" height="650" src="./stream-tall.gif" alt="monochrome ascii stream" />
 </td>
 <td valign="top">
-<img width="560" src="./terminal.gif?v=4" alt="sybr1d terminal profile" />
+<img width="640" src="./terminal.gif?v=4" alt="sybr1d terminal profile" />
 <br /><br />
 <p align="left">
-<img width="430" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true&card_width=430" alt="github stats" />
+<img width="470" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafabd1&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=b8b8b8&icon_color=ffffff&include_all_commits=true&count_private=true&card_width=470" alt="github stats" />
 </p>
 <br />
 <samp>links</samp><br />
