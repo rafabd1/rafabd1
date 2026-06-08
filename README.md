@@ -13,7 +13,7 @@
 <samp>links</samp><br />
 <a href="https://x.com/sybr1d_">x</a> /
 <a href="https://gitlab.com/rafabd">gitlab</a> /
-<a href="https://app.hackthebox.com/users/2216017">hackthebox</a> /
+<a href="https://profile.hackthebox.com/profile/019ea927-e77a-718a-b6c0-783e0599bff6">hackthebox</a> /
 <a href="https://hackerone.com/rafabd1">hackerone</a>
 <br /><br />
 <samp>advisories</samp><br />
