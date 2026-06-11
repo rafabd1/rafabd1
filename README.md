@@ -6,7 +6,7 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rafabd1.rafabd1&amp;style=flat-square&amp;left_color=%23000000&amp;right_color=%23262626" alt="visitor badge" />
 </p>
 
-<p align="center">
+<p align="left">
 <br />
 <samp>links</samp><br />
 <a href="https://x.com/sybr1d_">x</a> /
