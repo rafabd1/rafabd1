@@ -16,5 +16,6 @@
 <br /><br />
 <samp>advisories</samp><br />
 <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-64648">CVE-2026-64648</a> /
 <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
 </p>
