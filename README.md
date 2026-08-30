@@ -20,4 +20,7 @@
 <a href="https://www.cve.org/CVERecord?id=CVE-2025-10903">CVE-2025-10903</a> /
 <a href="https://github.com/advisories/GHSA-hgv7-v322-mmgr">GHSA-hgv7-v322-mmgr</a>
 </p>
+<br />
+<samp>rafabd1@proton.me</samp>
+
 
