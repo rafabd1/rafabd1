@@ -12,7 +12,8 @@
 <a href="https://www.cve.org/CVERecord?id=CVE-2026-1282">CVE-2026-1282</a> /
 <a href="https://www.cve.org/CVERecord?id=CVE-2026-64648">CVE-2026-64648</a> /
 <a href="https://www.cve.org/CVERecord?id=CVE-2025-10903">CVE-2025-10903</a> /
-<a href="https://www.cve.org/CVERecord?id=CVE-2026-94545">CVE-2026-94545</a> 
+<a href="https://www.cve.org/CVERecord?id=CVE-2026-94545">CVE-2026-94545</a> /
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-96889">CVE-2026-96889</a>
 </p>
 <br />
 <samp>rafabd1@proton.me</samp>
